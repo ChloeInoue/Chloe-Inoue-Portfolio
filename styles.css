@@ -2,11 +2,15 @@
   color: white;
   font-size: 16px;
   h1 {color:#E4EEE5;
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  a {
-    color: yellow;
-    text-decoration: none;
-  }
+  // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 1000
+
+.mulish-<uniquifier> {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
   /* When user hovers over a link*/
   a:hover {
     text-decoration: underline;
