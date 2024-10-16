@@ -1,1 +1,1 @@
-# INFO-654-Project
+# info-654-project
