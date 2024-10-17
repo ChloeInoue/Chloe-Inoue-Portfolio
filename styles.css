@@ -1,0 +1,30 @@
+<h1 style="color:Orange;"Hello World</h1>
+<p style=color:DodgerBlue;">Lorem ipsum...</p>
+body {background-color: #E4EEE5;
+  color: black;
+      
+font-size: 16px;
+  heading {color:black;
+.mulish-<uniquifier>
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  /* When user hovers over a link*/
+  a:hover {
+    text-decoration: underline;
+    }
+    p {color: #black;
+      text-indent: 20px;
+    }
+    iframe {
+      display:block;
+      display: auto;
+    }\
+    IMG_0252.JPG {
+      padding: 40px;
+      border: 2px thin white;
+      display: blocks;
+      margin: 40px auto;
+    }
