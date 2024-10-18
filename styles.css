@@ -9,9 +9,10 @@ h2 {
   border: 1px solif black;
 }
 
-h3 {
+body {
   background-color: #D4DFC7;
 }
+
   /* When user hovers over a link*/
   a:hover {
     text-decoration: underline;
