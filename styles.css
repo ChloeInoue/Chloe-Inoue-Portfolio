@@ -4,15 +4,15 @@ h1 {
 }
 
 h2 {
-  color: #00035;
-  border: 1px solif black;
+  color: #000035; 
+  border: 1px solid black;
 }
 
 body {
-  background-image: linear-gradient(to right, rgba(212,223,199),rgba(0,0,0,0)); 
+  background-image: linear-gradient(to right, rgba(212, 223, 199), rgba(0, 0, 0, 0));
 }
 
-  p {color: #black;
-    text-indent: 20px;
-    }
-
+p {
+  color: black;
+  text-indent: 20px;
+}
