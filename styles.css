@@ -1,8 +1,5 @@
 <head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap// <uniquifier>: Use a unique and descriptive class name">
-<style>
-body {
-  font-family: "Sixtyfour Convergence", sans-serif;
+<
 }
 <style>
 </head>
@@ -10,6 +7,8 @@ body {
 h1 {
   color: #725752;
   border: 1px solid black;
+  link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap";
+  font-family: "Sixtyfour Convergence", sans-serif;
 }
 
 h2 {
