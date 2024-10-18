@@ -16,13 +16,13 @@ h1 {
 }
 }
 
-heading {
+h2 {
   color: #BBBBBB;
   background-color: green;
   border: 1px solif black;
 }
 
-body {
+h3 {
   background-color: #D4DFC7;
 }
       
