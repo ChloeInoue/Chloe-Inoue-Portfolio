@@ -1,5 +1,13 @@
-<heading> 
+title {
+  color: #00008B;
+  border: 1px solid black;
+}
 
+heading {
+  color: #BBBBBB;
+  background-color: green;
+  border: 1px solif black;
+}
 
 
 
