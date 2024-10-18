@@ -18,9 +18,11 @@ h3 {
   a:hover {
     text-decoration: underline;
     }
-    p {color: #black;
-      text-indent: 20px;
-    }
+
+  p {color: #black;
+    text-indent: 20px;
+}
+
     iframe {
       display:block;
       display: auto;
