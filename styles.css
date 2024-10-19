@@ -4,11 +4,27 @@ h1 {
 }
 
 h2 {
-  color: #white; 
-  border: 1px solid white;
+  color: white; 
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+} 
+
+h6 (
+color: white;
 }
 
 body {
+  color: white;
   background-color: black;
 }
 
