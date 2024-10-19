@@ -1,6 +1,6 @@
 h1 {
-  color: #725752;
-  border: 1px solid black;
+  color: white;
+  border: 1px solid white;
 }
 
 h2 {
@@ -9,8 +9,7 @@ h2 {
 }
 
 body {
-  font-family: "SixtyfourConvergence", sans-serif;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(8, 14, 44, 0));
+  background-color: coral;
 }
 
 p {
