@@ -10,7 +10,7 @@ h2 {
 
 body {
   font-family: "SixtyfourConvergence", sans-serif;
-  background-image: linear-gradient(to right, rgba(212, 223, 199), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(8, 14, 44, 0));
 }
 
 p {
