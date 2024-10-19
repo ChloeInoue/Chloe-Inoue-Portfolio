@@ -4,15 +4,15 @@ h1 {
 }
 
 h2 {
-  color: #000035; 
-  border: 1px solid black;
+  color: #white; 
+  border: 1px solid white;
 }
 
 body {
-  background-color: coral;
+  background-color: black;
 }
 
 p {
-  color: black;
+  color: white;
   text-indent: 20px;
 }
