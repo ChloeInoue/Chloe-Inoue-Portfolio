@@ -46,4 +46,5 @@ p {
 .row{
   display: flex;
   width: 60vw; 
+  border: solid white;
 }
