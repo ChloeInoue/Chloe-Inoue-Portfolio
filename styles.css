@@ -42,3 +42,8 @@ p {
   color: white;
   text-indent: 20px;
 }
+
+.row{
+  display: flex;
+  width: 60vw; 
+}
