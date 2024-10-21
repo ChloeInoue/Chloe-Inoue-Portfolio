@@ -37,7 +37,7 @@ p {
 }
 
 .button {
-  background-color: #EC9E63;
+  background-color: #686E9E;
   border: none;
   color: black;
   font-family: "Noto Sans", sans-serif;
@@ -52,11 +52,15 @@ p {
 .small-image {
   width: 400px; 
   height: auto;
+border-style: inset;
+      color: #686E9E;
 }
 
 .medium-image {
   width: 600px; 
   height: auto;
+border-style: inset;
+      color: #686E9E;
 }
 
 div.row, div.container {
