@@ -7,63 +7,58 @@ title {
 }
 
 h1 {
-  font-family: 'Sixtyfour Convergence', sans-serif;
-  font-weight: 800;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
   color: white;
 }
 
 h2 {
-  font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
-  color: white; 
-  border: white;
+  color: white;
 }
 
 h3 {
-   font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
   color: white;
 }
 
 h4 {
-   font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
   color: white;
 }
 
 h5 {
-   font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
   color: white;
-} 
+}
 
 h6 {
-   font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
   color: white;
 }
 
 body {
-  font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
   color: white;
-  background-color: black;
 }
 
 p {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
   color: white;
   padding-left: 1em;
   padding-right: 1em;
@@ -78,10 +73,10 @@ p {
   background-color: white;
   border: none;
   color: black;
-  font-family: "Inter Tight", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
   font-style: normal;
+  color: white;
   padding: 10px 15px;
   text-align: center;
   text-decoration: none;
