@@ -124,5 +124,16 @@ ul.myUL {
   display: inline-block;
   text-align: left;
 }
+.scrolling-text {
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+  animation: scroll 10s linear infinite;
+}
+
+@keyframes scroll {
+  from { transform: translateX(100%); }
+  to { transform: translateX(-100%); }
+}
 
 </style>
