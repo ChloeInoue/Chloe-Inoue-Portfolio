@@ -83,3 +83,8 @@ p {
   display: inline-block;
   font-size: 16px;
 }
+img {
+  aspect-ratio: 3 / 2;
+  width: 100%;
+  height: auto;
+}
