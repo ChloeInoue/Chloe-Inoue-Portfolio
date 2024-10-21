@@ -17,7 +17,7 @@ h2 {
   font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-style: normal;
-  color: black;
+  color: #D397AC;
 }
 
 h3 {
@@ -70,7 +70,7 @@ p {
 }
 
 .button {
-  background-color: orange;
+  background-color: #EC9E63;
   border: none;
   color: black;
   font-family: "Special Elite", system-ui;
