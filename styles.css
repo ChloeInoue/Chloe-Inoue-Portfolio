@@ -88,3 +88,7 @@ img {
   width: 100%;
   height: auto;
 }
+
+{.container {
+  padding-top: 66.66%;
+}
