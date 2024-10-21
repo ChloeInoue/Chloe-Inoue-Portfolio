@@ -7,58 +7,76 @@ title {
 }
 
 h1 {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  color: black;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 h2 {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+   font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
   color: #D397AC;
 }
 
 h3 {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  color: black;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 h4 {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  color: black;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 h5 {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  color: black;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 h6 {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  color: black;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 body {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
-  color: black;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 p {
-  font-family: "Special Elite", system-ui;
-  font-weight: 400;
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
   color: black;
   padding-left: 1em;
   padding-right: 1em;
