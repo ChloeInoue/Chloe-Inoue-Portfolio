@@ -40,10 +40,11 @@ body {
 
 p {
   color: white;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .row{
   display: flex;
-  width: 60vw; 
-  border: solid white;
+  width: 70vw; 
 }
