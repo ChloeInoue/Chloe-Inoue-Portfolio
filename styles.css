@@ -1,82 +1,26 @@
-<style>
-title {
-  font-family: 'Sixtyfour Convergence', sans-serif;
-  font-weight: 800;
-  font-style: normal;
-  color: black;
-}
-
 h1 {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 700;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 
 h2 {
-   font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
   color: #D397AC;
 }
 
-h3 {
+h3, h4, h5, h6, body, p {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
-h4 {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
-h5 {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
-h6 {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
-body {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 
 p {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
   color: black;
   padding-left: 1em;
   padding-right: 1em;
@@ -93,8 +37,6 @@ p {
   color: black;
   font-family: "Special Elite", system-ui;
   font-weight: 400;
-  font-style: normal;
-  color: black;
   padding: 10px 15px;
   text-align: center;
   text-decoration: none;
@@ -112,11 +54,7 @@ p {
   height: auto;
 }
 
-div.row {
-  text-align: left;
-}
-
-div.container {
+div.row, div.container {
   text-align: left;
 }
 
@@ -124,6 +62,7 @@ ul.myUL {
   display: inline-block;
   text-align: left;
 }
+
 .scrolling-text {
   white-space: nowrap;
   overflow: hidden;
@@ -135,5 +74,3 @@ ul.myUL {
   from { transform: translateX(100%); }
   to { transform: translateX(-100%); }
 }
-
-</style>
