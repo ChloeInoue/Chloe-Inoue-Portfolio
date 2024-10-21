@@ -99,6 +99,10 @@ p {
   height: auto;
 }
 
+div.row {
+  text-align: left;
+}
+
 div.container {
   text-align: left;
 }
