@@ -99,4 +99,13 @@ p {
   height: auto;
 }
 
+div.container {
+  text-align: left;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+
 </style>
