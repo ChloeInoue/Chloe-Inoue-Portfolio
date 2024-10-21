@@ -1,3 +1,4 @@
+<style>
 title {
   font-family: 'Sixtyfour Convergence', sans-serif;
   font-weight: 800;
@@ -89,7 +90,13 @@ p {
 }
 
 .small-image {
-  width: 150px; 
+  width: 400px; 
   height: auto;
 }
 
+.medium-image {
+  width: 600px; 
+  height: auto;
+}
+
+</style>
