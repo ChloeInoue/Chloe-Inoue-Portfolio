@@ -59,7 +59,7 @@ border-style: inset;
   width: 475px; 
   height: auto;
 border-style: inset;
-      color: #686E9E;
+      color: #F59542;
 }
 
 div.row, div.container {
@@ -80,11 +80,4 @@ th, td {
   padding-bottom: 10px;
   padding-left: 5px;
   padding-right: 5px;
-}
-
-<style>
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
 }
