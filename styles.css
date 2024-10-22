@@ -69,6 +69,10 @@ div.row, div.container {
 ul.myUL {
   display: inline-block;
   text-align: left;
+ont-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 th, td {
