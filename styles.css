@@ -31,6 +31,10 @@ p {
   padding-right: 1em;
 }
 
+p1 {
+      margin-bottom: 2em;
+        }
+
 .row {
   display: flex;
   width: 70vw; 
