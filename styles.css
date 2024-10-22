@@ -1,8 +1,15 @@
-title, h1 {
+title {
       font-family: 'Sixtyfour Convergence', sans-serif;
       font-weight: 800;
       font-style: normal;
     }
+
+h1 {
+      font-family: 'Sixtyfour Convergence', sans-serif;
+      font-weight: 600;
+      font-style: normal;
+}
+
 h2 {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
@@ -14,7 +21,7 @@ h2 {
 h3 {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 300;
+  font-weight: 350;
   font-style: italic;
   color: black;
 }
@@ -22,7 +29,7 @@ h3 {
 p {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
       color: black;
   padding-left: 1em;
