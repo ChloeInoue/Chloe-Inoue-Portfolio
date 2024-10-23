@@ -52,14 +52,14 @@ p {
   width: 325px; 
   height: auto;
 border-style: inset;
-      color: #686E9E;
+      color: black;
 }
 
 .medium-image {
   width: 600px; 
   height: auto;
 border-style: inset;
-      color: #686E9E;
+      color: black;
 }
 
 div.row, div.container {
