@@ -85,3 +85,7 @@ th, td {
 body {
   background-color: #D9FAF4;
 }
+
+.column {
+  float: right;
+}
