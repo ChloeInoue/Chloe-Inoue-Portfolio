@@ -7,7 +7,6 @@ h1 {
 
 h2 {
   font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
   color: #1B3E8F;
@@ -15,7 +14,6 @@ h2 {
 
 h3 {
   font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 200;
   font-style: italic;
   color: black;
@@ -23,7 +21,6 @@ h3 {
 
 p {
   font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   color: black;
@@ -64,7 +61,6 @@ ul.myUL {
   display: inline-block;
   text-align: left;
   font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
