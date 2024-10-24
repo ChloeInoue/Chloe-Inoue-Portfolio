@@ -1,120 +1,120 @@
-.sixtyfour-convergence-<uniquifier> {
-  font-family: "Sixtyfour Convergence", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings:
-    "BLED" 0,
-    "SCAN" 0,
-    "XELA" 0,
-    "YELA" 0;
-}
-
-h1 {
-  font-family: 'Sixtyfour Convergence', sans-serif;
-  font-weight: 800;
-  font-style: normal;
-  color: black;
-}
-
-h2 {
-  font-family: "Noto Sans", sans-serif;
-  font-weight: bold;
-  font-style: normal;
-  color: #1B3E8F;
-}
-
-h3 {
-  font-family: "Noto Sans", sans-serif;
-  font-weight: 200;
-  font-style: italic;
-  color: black;
-}
-
-p {
-  font-family: "Noto Sans", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  color: black;
-  padding-left: 1em;
-  padding-right: 1em;
-}
-
-.button {
-  background-color: #c35100;
-  border: none;
-  color: white;
-  font-family: "Noto Sans", sans-serif;
-  font-weight: 400;
-  padding: 10px 100px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 17px;
-}
-
-.small-image {
-  width: 325px; 
-  height: auto;
-  border-style: none;
-}
-
-.medium-image {
-  width: 600px; 
-  height: auto;
-  border-style: none;
-}
-
-div.row, div.container {
-  text-align: left;
-}
-
-ul.myUL {
-  display: inline-block;
-  text-align: left;
-  font-family: "Noto Sans", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-th, td {
-  padding-top: 7px;
-  padding-bottom: 10px;
-  padding-left: 15px;
-  padding-right: 15px;
+@font-face {
+font-family : 'Sixtyfour Convergence';
+font-style : normal;
+font-weight : 400;
+font-display : swap;
+src : url(https://fonts.gstatic.com/s/sixtyfourconvergence/v1/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102hos.ttf) format('truetype');
 }
 
 body {
-  background-color: white;
-  --google-font-color-sixtyfourconvergence : none;
-  font-family: 'Sixtyfour Convergence', sans-serif;
+--google-font-color-sixtyfourconvergence : none;
+}
+
+h1 {
+font-family : 'Sixtyfour Convergence', sans-serif;
+font-weight : 800;
+font-style : normal;
+color : black;
+}
+
+h2 {
+font-family : "Noto Sans", sans-serif;
+font-weight : bold;
+font-style : normal;
+color : #1B3E8F;
+}
+
+h3 {
+font-family : "Noto Sans", sans-serif;
+font-weight : 200;
+font-style : italic;
+color : black;
+}
+
+p {
+font-family : "Noto Sans", sans-serif;
+font-weight : 400;
+font-style : normal;
+color : black;
+padding-left : 1em;
+padding-right : 1em;
+}
+
+.button {
+background-color : #c35100;
+border : none;
+color : white;
+font-family : "Noto Sans", sans-serif;
+font-weight : 400;
+padding : 10px 100px;
+text-align : center;
+text-decoration : none;
+display : inline-block;
+font-size : 17px;
+}
+
+.small-image {
+width : 325px;
+height : auto;
+border-style : none;
+}
+
+.medium-image {
+width : 600px;
+height : auto;
+border-style : none;
+}
+
+div.row, div.container {
+text-align : left;
+}
+
+ul.myUL {
+display : inline-block;
+text-align : left;
+font-family : "Noto Sans", sans-serif;
+font-weight : 400;
+font-style : normal;
+}
+
+th, td {
+padding-top : 7px;
+padding-bottom : 10px;
+padding-left : 15px;
+padding-right : 15px;
+}
+
+body {
+background-color : white;
+--google-font-color-sixtyfourconvergence : none;
+font-family : 'Sixtyfour Convergence', sans-serif;
 }
 
 .row {
-  display: flex;
-  justify-content: flex-end;
-  width: 100%;
+display : flex;
+justify-content : flex-end;
+width : 100%;
 }
 
 .column {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  flex-wrap: wrap;
+display : flex;
+flex-direction : row;
+justify-content : flex-end;
+flex-wrap : wrap;
 }
 
 img {
-  margin: 5px;
+margin : 5px;
 }
 
 ul {
-  padding-left: 2em;
+padding-left : 2em;
 }
 
 li {
-  padding-bottom: 0.5em;
+padding-bottom : 0.5em;
 }
 
 ul ul {
-  padding-left: 1.5em;
+padding-left : 1.5em;
 }
