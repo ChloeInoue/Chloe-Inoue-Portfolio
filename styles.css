@@ -30,11 +30,6 @@ p {
   padding-right: 1em;
 }
 
-.row {
-  display: flex;
-  width: 70vw; 
-}
-
 .button {
   background-color: #686E9E;
   border: none;
@@ -86,6 +81,24 @@ body {
   background-color: white;
 }
 
+}
+body {
+  font-family: 'Sixtyfour Convergence', sans-serif;
+}
+
+.row {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
 .column {
-  float: right;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+img {
+  margin: 5px;
 }
