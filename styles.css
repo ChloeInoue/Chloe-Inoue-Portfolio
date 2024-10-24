@@ -1,15 +1,15 @@
 h1 {
-      font-family: 'Sixtyfour Convergence', sans-serif;
-      font-weight: 800;
-      font-style: normal;
-      font-color: black;
+  font-family: 'Sixtyfour Convergence', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: black;
 }
 
 h2 {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: bold;
+  font-weight: bold;
+  font-style: normal;
   color: #1B3E8F;
 }
 
@@ -26,7 +26,7 @@ p {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-      color: black;
+  color: black;
   padding-left: 1em;
   padding-right: 1em;
 }
@@ -34,10 +34,9 @@ p {
 .button {
   background-color: #c35100;
   border: none;
-  color: black;
+  color: white;
   font-family: "Noto Sans", sans-serif;
   font-weight: 400;
-font-color: white;
   padding: 10px 100px;
   text-align: center;
   text-decoration: none;
@@ -48,13 +47,13 @@ font-color: white;
 .small-image {
   width: 325px; 
   height: auto;
-border-style: none;
+  border-style: none;
 }
 
 .medium-image {
   width: 600px; 
   height: auto;
-border-style: none;
+  border-style: none;
 }
 
 div.row, div.container {
@@ -64,7 +63,7 @@ div.row, div.container {
 ul.myUL {
   display: inline-block;
   text-align: left;
-ont-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -79,10 +78,6 @@ th, td {
 
 body {
   background-color: white;
-}
-
-}
-body {
   font-family: 'Sixtyfour Convergence', sans-serif;
 }
 
